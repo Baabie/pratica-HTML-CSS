@@ -1,0 +1,36 @@
+.image {
+    display: block;
+    width: 35%;
+    position: relative;
+    top: 30px;
+}
+
+.foto {
+    display: block;
+    width: 40%;
+}
+
+.footerimg {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.titulo {
+    margin-top: 60px;
+}
+
+.texto {
+    font-family: sans-serif;
+    margin-left: 90px;
+}
+
+.titulotexto {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
