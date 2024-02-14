@@ -1,3 +1,8 @@
+a {
+    display: inline;
+    padding: 10px;
+}
+
 .image {
     display: block;
     width: 35%;
